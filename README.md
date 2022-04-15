@@ -1,2 +1,6 @@
-# Social_Media_BOTS
-Selenium Scripts to Scrap DATA from Social Media Websites
+# Scoial_Media_BOTS
+Selenium Scripts for scrapping data from Social Media Websites
+1. Youtube Comments
+2. Twitter
+3. Instagram
+4. Reddit
